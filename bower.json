@@ -1,0 +1,15 @@
+{
+  "name": "webapp2",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "modernizr": "~2.8.1",
+    "susy": "~2.2.11",
+    "bourbon": "~4.2.6",
+    "compass-breakpoint": "breakpoint-sass#~2.6.1"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}
